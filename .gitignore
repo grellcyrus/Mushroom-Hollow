@@ -11,8 +11,21 @@ Saved/
 *.suo
 *.opensdf
 *.sdf
+*.user
+*.userosscache
+*.sln.docstates
 
 # Build and temporary files
+Build/
 *.log
 *.tmp
 *.user
+
+# Unreal generated solution/project files
+*.sln
+*.slnx
+
+
+# OS files
+.DS_Store
+Thumbs.db
