@@ -1,2 +1,3 @@
-2026/09/20-21:32:00.863 4214 Creating DB C:\Users\lunar\Documents\Game Projects\Mushroom_Hollow\Saved\webcache_6613\Default\shared_proto_db since it was missing.
-2026/09/20-21:32:00.886 4214 Reusing MANIFEST C:\Users\lunar\Documents\Game Projects\Mushroom_Hollow\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/10/01-21:30:35.298 8a40 Reusing MANIFEST C:\Users\lunar\Documents\Game Projects\Mushroom_Hollow\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/10/01-21:30:35.299 8a40 Recovering log #3
+2026/10/01-21:30:35.299 8a40 Reusing old log C:\Users\lunar\Documents\Game Projects\Mushroom_Hollow\Saved\webcache_6613\Default\shared_proto_db/000003.log 
